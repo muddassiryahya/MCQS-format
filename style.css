@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #284e3d !important;
+    height: 80px;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+
+.text {
+    font-size: 22px;
+    margin-top: 60px;
+}
+
+button {
+    background-color: #284e3d;
+    height: 40px;
+    width: 80px;
+    color: #fff;
+    border-radius: 10px;
+}
+
